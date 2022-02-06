@@ -6,5 +6,6 @@
   <input type="radio" id="css" name="fav_language" value="CSS">
   <label for="css">CSS</label><br>
   <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <br>
   <label for="javascript">JavaScript</label>
 </form>
